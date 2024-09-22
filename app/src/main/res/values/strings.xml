@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Photo album</string>
+    <string name="textViewTitle">Посмотрите новую подборку фотографий</string>
+    <string name="buttonStart">Начать просмотр</string>
+    <string name="buttonNext">Следующее фото</string>
+    <string name="action_exit">Выход</string>
+    <string name="textViewThankYou">Спасибо за просмотр!\nДо свидания</string>
+    <string name="buttonExit">Выход</string>
+</resources>
